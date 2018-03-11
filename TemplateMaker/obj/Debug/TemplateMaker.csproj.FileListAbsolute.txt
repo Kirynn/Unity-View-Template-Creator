@@ -1,0 +1,15 @@
+C:\Users\R3-1\Desktop\Vex\Documents\GitHub\New folder\TemplateMaker\TemplateMaker\bin\Debug\TemplateMaker.exe.config
+C:\Users\R3-1\Desktop\Vex\Documents\GitHub\New folder\TemplateMaker\TemplateMaker\bin\Debug\TemplateMaker.exe
+C:\Users\R3-1\Desktop\Vex\Documents\GitHub\New folder\TemplateMaker\TemplateMaker\bin\Debug\TemplateMaker.pdb
+C:\Users\R3-1\Desktop\Vex\Documents\GitHub\New folder\TemplateMaker\TemplateMaker\obj\Debug\TemplateMaker.csprojResolveAssemblyReference.cache
+C:\Users\R3-1\Desktop\Vex\Documents\GitHub\New folder\TemplateMaker\TemplateMaker\obj\Debug\MainWindow.g.cs
+C:\Users\R3-1\Desktop\Vex\Documents\GitHub\New folder\TemplateMaker\TemplateMaker\obj\Debug\App.g.cs
+C:\Users\R3-1\Desktop\Vex\Documents\GitHub\New folder\TemplateMaker\TemplateMaker\obj\Debug\TemplateMaker_MarkupCompile.cache
+C:\Users\R3-1\Desktop\Vex\Documents\GitHub\New folder\TemplateMaker\TemplateMaker\obj\Debug\TemplateMaker_MarkupCompile.lref
+C:\Users\R3-1\Desktop\Vex\Documents\GitHub\New folder\TemplateMaker\TemplateMaker\obj\Debug\MainWindow.baml
+C:\Users\R3-1\Desktop\Vex\Documents\GitHub\New folder\TemplateMaker\TemplateMaker\obj\Debug\TemplateMaker.g.resources
+C:\Users\R3-1\Desktop\Vex\Documents\GitHub\New folder\TemplateMaker\TemplateMaker\obj\Debug\TemplateMaker.Properties.Resources.resources
+C:\Users\R3-1\Desktop\Vex\Documents\GitHub\New folder\TemplateMaker\TemplateMaker\obj\Debug\TemplateMaker.csproj.GenerateResource.cache
+C:\Users\R3-1\Desktop\Vex\Documents\GitHub\New folder\TemplateMaker\TemplateMaker\obj\Debug\TemplateMaker.csproj.CoreCompileInputs.cache
+C:\Users\R3-1\Desktop\Vex\Documents\GitHub\New folder\TemplateMaker\TemplateMaker\obj\Debug\TemplateMaker.exe
+C:\Users\R3-1\Desktop\Vex\Documents\GitHub\New folder\TemplateMaker\TemplateMaker\obj\Debug\TemplateMaker.pdb
